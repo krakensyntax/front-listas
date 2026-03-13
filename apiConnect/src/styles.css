@@ -65,7 +65,12 @@ label {
 }
 
 button {
+<<<<<<< HEAD
   color: white;
+=======
+  background-color: #14160f;
+  color: rgb(192, 55, 55);
+>>>>>>> feature1
   border: none;
   padding: 0.75rem 1.5rem;
   border-radius: 4px;
